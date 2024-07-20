@@ -1,0 +1,25 @@
+* 7467r4um
+This repository saves some stuff regarding sound-synthesis/sound-design, that I am experimenting with.
+
+At the moment there are three fields, that I will try to explore further in the future and from which code will end up here:
+- LogueSDK: Oscillators, Effects etc. for the NTS-1 mkII
+- C64 SID: Programs for sound-design/-synthesis using the SID
+- General Midi: Midi-Files to save some "musical ideas" or stuff like that
+
+I'll try to build a little "knowledge database" for myself with the use of [[https://orgmode.org/][org-mode]], to save little bits of knowledge I stumble upon on this journey, too.
+
+
+Feel free to use everything in your own work, if you'd like to.
+If you do so don't hesitate to drop me a message, it would be quite interesting if anything I'll create here will be useful for someone else (but you don't have to ;))
+
+* Knowledge Database
+** C64 SID
+*** Links
+- [[https://gitlab.com/sasanidas/emacs-c64-basic-ide][basic-ide]] Minor mode for emacs, hopefully useful for creating BASIC-Code etc.
+- [[https://vice-emu.sourceforge.io/vice_toc.html][VICE]] C64 emulator
+- [[https://codebase64.org/doku.php?id=base:sid_programming][Codebase64: Sid Programming]] Infos about how to program the SID
+
+** NTS-1 mkII
+*** Links
+- [[https://www.dspforaudioprogramming.com/][DSP for audioprogramming]] Useful theory stuff on DSP-programming in general
+- [[https://korginc.github.io/logue-sdk/unit-index/korg_examples/][KORG DIY Club Examples]] Examples for different oscillators and effects
