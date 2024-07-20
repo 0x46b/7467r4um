@@ -35,8 +35,8 @@ If you do so don't hesitate to drop me a message, it would be quite interesting 
 * Planning
 ** NTS-1 mkII [0/4]
 *** INPROGRESS r4bbit [0/2]
-**** INPROGRESS Add different choosable modulations to r4bb1t for the oscillators to interact
-**** TODO Add the ability to use more oscillators at once
+- [-] Add different choosable modulations to r4bb1t for the oscillators to interact
+- [ ] Add the ability to use more oscillators at once
 *** TODO Glitch-Effect
 *** TODO Stutter-Effect
 *** TODO "Drum-Oscillator"
@@ -47,5 +47,7 @@ If you do so don't hesitate to drop me a message, it would be quite interesting 
 
 ** C64 SID [0/3]
 *** INPROGRESS Setup a working emulation/workflow
+- [X] Install VICE
+- [X] Get basic-ide working in emacs
 *** TODO Learn the basics (no pun intended)
 *** TODO Create ASM/C-Library for easier programming (I guess it will be easier than do everything in BASIC?)
