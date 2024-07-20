@@ -1,3 +1,11 @@
+#+TAGS: @knowledge(k) @link(l)
+#+TODO: TODO(t) INPROGRESS(p) | DONE(d) CANCELED(c)
+#+LANGUAGE: de
+#+OPTIONS: todo:nil
+#+OPTIONS: tags:nil
+#+OPTIONS: p:t
+#+STARTUP: indent
+
 * 7467r4um
 This repository saves some stuff regarding sound-synthesis/sound-design, that I am experimenting with.
 
@@ -23,3 +31,21 @@ If you do so don't hesitate to drop me a message, it would be quite interesting 
 *** Links
 - [[https://www.dspforaudioprogramming.com/][DSP for audioprogramming]] Useful theory stuff on DSP-programming in general
 - [[https://korginc.github.io/logue-sdk/unit-index/korg_examples/][KORG DIY Club Examples]] Examples for different oscillators and effects
+
+* Planning
+** NTS-1 mkII [0/4]
+*** INPROGRESS r4bbit [0/2]
+**** INPROGRESS Add different choosable modulations to r4bb1t for the oscillators to interact
+**** TODO Add the ability to use more oscillators at once
+*** TODO Glitch-Effect
+*** TODO Stutter-Effect
+*** TODO "Drum-Oscillator"
+   :NOTE:
+   The idea would be, that you can use different kinds of percussion controlled via the velocity, to work around the "single voice" of the NTS-1 
+   :END:
+
+
+** C64 SID [0/3]
+*** INPROGRESS Setup a working emulation/workflow
+*** TODO Learn the basics (no pun intended)
+*** TODO Create ASM/C-Library for easier programming (I guess it will be easier than do everything in BASIC?)
